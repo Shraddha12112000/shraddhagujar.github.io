@@ -59,7 +59,9 @@ I am a **Data Science & Machine Learning Enthusiast**
 ## 🔗 Connect with Me  
 - 🏆 **GitHub:** [Shraddha12112000](https://github.com/Shraddha12112000)  
 - 💼 **LinkedIn:** [shraddha-gujar](https://www.linkedin.com/in/shraddha-gujar-b91005216/)  
-- ✉ **Email:** **gujarshraddha13@gmail.com**  
+- ✉ **Email:** **gujarshraddha13@gmail.com**
+## 📄 Download My Resume  
+[Download Resume](https://drive.google.com/file/d/10N8hTZZoONfAvh-pD8YyT-fcNR0GaCmq/view?usp=sharing)
 
 🚀 **Check out my GitHub projects and [blog](https://datapulseai.wordpress.com/) to see my work in action!**
 
