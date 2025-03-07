@@ -42,9 +42,11 @@ Passionate about solving real-world problems using AI & ML.
 - Documented data science process insights in an Detailed Project Report.
 
 
-### ✍ DataPulseAI Blog (Oct’24 - Present) 
-- Authored articles on Machine Learning, AI advancements, and real-world applications.  
-- Enhancing knowledge in AI & Data Science while improving technical writing.  
+### ✍ Positions of Responsibility
+- DataPulseAI Blog (Oct’24 - Present) 
+- COEP’s Data Science Artificial Intelligence Club | Club Member (Mar'22 – Apr'23)
+- COEP Aarya-Raas | Head of Design Department (Oct'21 – Dec’22)
+
 
 ## 🛠 Skills  
 - Programming: Python, Git  
@@ -62,7 +64,7 @@ Passionate about solving real-world problems using AI & ML.
 - ✉ Email: gujarshraddha13@gmail.com
 
 ## 📄 Download My Resume  
-   [Download Resume](https://drive.google.com/file/d/10N8hTZZoONfAvh-pD8YyT-fcNR0GaCmq/view?usp=sharing)
+   - [Download Resume](https://drive.google.com/file/d/10N8hTZZoONfAvh-pD8YyT-fcNR0GaCmq/view?usp=sharing)
 
 🚀 **Check out my GitHub projects and [blog](https://datapulseai.wordpress.com/) to see my work in action!**
 
