@@ -17,7 +17,7 @@ Passionate about solving real-world problems using AI & ML.
 ## 🎓 Education 
 🔹B.Tech | College Of Engineering,Pune   CGPA: 7.30 | (Aug’19 - Jun’23)
 🔹XII(HSC) | Sangmeshwar College,Solapur 81.08 % | 2018
-🔹MHT-CET (Engineering Entrance Exam)    98.23 % | 2019
+🔹MHT-CET | Engineering Entrance Exam    98.23 % | 2019
 🔹X(SSC) | Mahaveer High School,Solapur  93.2 % | 2016
 
 ## 🔬 Projects  
@@ -42,9 +42,9 @@ Passionate about solving real-world problems using AI & ML.
 - Documented data science process insights in an Detailed Project Report.
 
 ### ✍ Positions of Responsibility
-- DataPulseAI Blog (Oct’24 - Present) 
-- COEP’s DS AI Club | Club Member (Mar'22 – Apr'23)
-- COEP Aarya-Raas | Head of Design (Oct'21 – Dec’22)
+| DataPulseAI Blog | Author (Oct’24 - Present) 
+| COEP’s DS AI Club | Club Member (Mar'22 – Apr'23)
+| COEP Aarya-Raas | Head of Design (Oct'21 – Dec’22)
 
 ## 🛠 Skills  
 - Programming: Python, Git  
