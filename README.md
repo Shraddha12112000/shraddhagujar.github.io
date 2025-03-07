@@ -14,11 +14,11 @@ Passionate about solving real-world problems using AI & ML.
 - Earned various skills Python,Data Preprocessing, Data Analysis, ML Algorithms. 
 - Technologies :- Python, ML, AI, Data Science.  
 
-## 🎓 Education  
-🔹B.Tech | College Of Engineering Pune   CGPA: 7.30 | (Aug’19 - Jun’23)
-🔹XII (HSC) | Sangmeshwar College,Solapur 81.08 %| 2018
-🔹MHT-CET (Engineering Entrance Exam)     98.23 % | 2019
-🔹X (SSC) | Mahaveer High School,Solapur  93.2 % | 2016
+## 🎓 Education 
+🔹B.Tech | College Of Engineering,Pune   CGPA: 7.30 | (Aug’19 - Jun’23)
+🔹XII(HSC) | Sangmeshwar College,Solapur 81.08 % | 2018
+🔹MHT-CET (Engineering Entrance Exam)    98.23 % | 2019
+🔹X(SSC) | Mahaveer High School,Solapur  93.2 % | 2016
 
 ## 🔬 Projects  
 ### 🔍 News Article Sorting [Link](https://github.com/Shraddha12112000/News-Article-Sorting/tree/master)
