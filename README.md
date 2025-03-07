@@ -8,7 +8,7 @@ Passionate about solving real-world problems using AI & ML.
 - Working on end-to-end machine learning projects, covering data preprocessing, model training, and deployment.  
 - Conducted exploratory data analysis (EDA) to extract key insights.  
 - Prepared detailed documentation of the data science process, including methodologies, code and results.  
-- **Technologies:** Python, Pandas, NumPy, Scikit-learn, Data Science  
+- Technologies: Python, Pandas, NumPy, Scikit-learn, Data Science  
 
 ### 🔹 ML Intern | National Instruments Innovation Centre (Sep’21 - Oct’21)  
 - Earned various skills Python,Data Preprocessing, Data Analysis, ML Algorithms. 
@@ -62,7 +62,7 @@ Passionate about solving real-world problems using AI & ML.
 - ✉ Email: gujarshraddha13@gmail.com
 
 ## 📄 Download My Resume  
-  [Download Resume](https://drive.google.com/file/d/10N8hTZZoONfAvh-pD8YyT-fcNR0GaCmq/view?usp=sharing)
+   [Download Resume](https://drive.google.com/file/d/10N8hTZZoONfAvh-pD8YyT-fcNR0GaCmq/view?usp=sharing)
 
 🚀 **Check out my GitHub projects and [blog](https://datapulseai.wordpress.com/) to see my work in action!**
 
